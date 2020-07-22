@@ -1,0 +1,10 @@
+{
+   "name": "profile-pic",
+   "description": "Generate random avatars",
+   "license": "",
+   "dependencies": {
+     "@svgdotjs/svg.js": "^3.0.12",
+     "svg.js": "^2.7.1",
+     "svgdom": "0.0.18"
+   }
+ }
